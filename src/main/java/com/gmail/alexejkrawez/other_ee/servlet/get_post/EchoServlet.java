@@ -1,4 +1,4 @@
-package com.gmail.alexejkrawez.other_ee.servlet;
+package com.gmail.alexejkrawez.other_ee.servlet.get_post;
 
 import java.io.IOException;
 import java.io.PrintWriter;
